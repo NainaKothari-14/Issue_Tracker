@@ -1,0 +1,17 @@
+issue-tracker/
+├── backend/
+│   ├── src/
+│   │   ├── models/
+│   │   │   ├── index.js
+│   │   │   ├── User.js
+│   │   │   ├── Project.js
+│   │   │   └── Issue.js
+│   │   ├── routes/
+│   │   │   ├── user.routes.js
+│   │   │   ├── project.routes.js
+│   │   │   └── issue.routes.js
+│   │   ├── app.js
+│   │   └── server.js
+│   ├── .env
+│   └── package.json
+└── frontend/
